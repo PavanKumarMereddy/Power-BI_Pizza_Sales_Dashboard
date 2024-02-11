@@ -8,7 +8,7 @@ The objective of this project is to create an interactive dashboard that enables
 
 ## Project Steps
 
-### 1.Data Import and Cleaning
+### 1. Data Import and Cleaning
 
 
 ![Screenshot 2024-02-11 104750](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/f039ff5f-d726-490d-9c83-5496c6838d28)
@@ -21,7 +21,7 @@ The objective of this project is to create an interactive dashboard that enables
 *	Creating conditional columns.
 +	Extracting year from the order_date column.
 
-### 2.Data Modeling
+### 2. Data Modeling
 
 ![Screenshot 2024-02-10 103939](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/34e3a95c-af5c-4b97-9f66-b4dfa0efcf9c)
 
@@ -55,7 +55,7 @@ Total Pizza Sold = SUM(pizza_sales[quantity])
 
 
 
-### 3.Data Visualization
+### 3. Data Visualization
 
 +	Utilized various Power BI visuals including
 *	Advanced card visuals for displaying key metrics.
@@ -79,7 +79,7 @@ Total Pizza Sold = SUM(pizza_sales[quantity])
 * Matrix visual to showcase top 5 best/worst-selling pizzas.
 
 
-### 4.Interactivity and Navigation
+### 4. Interactivity and Navigation
 
 +	Implemented slicers to enable filtering of visuals.
 *	Added buttons for navigation across pages.
