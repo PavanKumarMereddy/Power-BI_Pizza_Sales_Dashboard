@@ -6,3 +6,7 @@ This project involves creating a sales dashboard using Power BI to analyze pizza
 ## Objective
 The objective of this project is to create an interactive dashboard that enables users to visualize and analyze pizza sales data effectively. The dashboard should provide key metrics, trends, and insights to support decision-making processes for stakeholders.
 
+## Project Steps
+
+### Data Import and Cleaning
+
