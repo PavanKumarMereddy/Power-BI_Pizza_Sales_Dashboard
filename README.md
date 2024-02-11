@@ -57,6 +57,24 @@ Total Pizza Sold = SUM(pizza_sales[quantity])
 
 ### 3.Data Visualization
 
-+	Utilized various Power BI visuals including:
++	Utilized various Power BI visuals including
 *	Advanced card visuals for displaying key metrics.
+
+![Screenshot 2024-02-11 110718](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/12827998-5f59-4415-8ee8-0aecd8b35056)
+
++ Column chart to visualize orders by day.
+
+
+![Screenshot 2024-02-11 110915](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/0b8c8bf7-7e99-444b-8225-c816a2b752bb)
+
+* Line chart to display monthly sales trend.
+
+![Screenshot 2024-02-11 110932](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/c44835eb-f5c9-4e32-8220-ef983b76f2e3)
+
+* Donut charts to represent the percentage of orders by category and revenue.
+
+![Screenshot 2024-02-11 110946](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/b7841157-7a6d-49c1-9779-e2a3b8f2969e) ![Screenshot 2024-02-11 111022](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/c4976508-c5c4-401f-a8de-d73cf7266dce)
+
+
+
 
