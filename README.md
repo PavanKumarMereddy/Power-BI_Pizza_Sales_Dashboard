@@ -18,4 +18,11 @@ The objective of this project is to create an interactive dashboard that enables
 +	Replacing values.
 -	Updating table names.
 *	Creating conditional columns.
-+	Extracting year from the order_date column. 
++	Extracting year from the order_date column.
+
+### Data Modeling
+
+![Screenshot 2024-02-10 103939](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/34e3a95c-af5c-4b97-9f66-b4dfa0efcf9c)
+
++ Assembled the cleaned data into a single table for analysis.
+*	Utilized DAX (Data Analysis Expressions) to create measures including
