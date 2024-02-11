@@ -79,10 +79,33 @@ Total Pizza Sold = SUM(pizza_sales[quantity])
 * Matrix visual to showcase top 5 best/worst-selling pizzas.
 
 
-### Interactivity and Navigation
+### 4.Interactivity and Navigation
 
 +	Implemented slicers to enable filtering of visuals.
 *	Added buttons for navigation across pages.
 -	Integrated Power BI advanced chart called Key Influencers for further analysis.
 
 
+![Screenshot 2024-02-11 111456](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/c9aeb9c2-9448-4bd4-bbe7-76191d887986)
+
++ Created custom tooltips to provide additional context to visuals.
+
+![Screenshot 2024-02-11 115618](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/f054aa9f-910f-4b01-bbf2-da2b147735e0)
+
+
+## Conclusion
+
+The Pizza Sales Dashboard in Power BI offers a comprehensive analysis of pizza sales data, providing stakeholders with valuable insights into sales performance, trends, and product analysis. The dashboard's interactive features facilitate dynamic exploration of the data, empowering users to make informed decisions and drive business growth.
+
+![Screenshot 2024-02-11 111403](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/214845f6-756a-4c7d-b8d2-61afb48e6f31)
+
+![Screenshot 2024-02-11 111423](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/a9f9e391-844a-46fd-b518-9b286ecbcb88)
+
+## Future Enhancements
++	Incorporate additional data sources for comprehensive analysis.
+-	Implement predictive analytics for forecasting sales.
+*	Enhance visualization aesthetics for improved user experience.
++	Integrate with real-time data for up-to-date insights.
+*	Collaborate with stakeholders to gather feedback and iterate on dashboard improvements.
+
+This documentation provides an overview of the ``Pizza Sales Dashboard project`` in ``Power BI``, outlining its objectives, steps, and potential areas for future enhancement.
