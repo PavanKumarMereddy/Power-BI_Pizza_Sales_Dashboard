@@ -73,7 +73,7 @@ Total Pizza Sold = SUM(pizza_sales[quantity])
 
 * Donut charts to represent the percentage of orders by category and revenue.
 
-![Screenshot 2024-02-11 110946](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/b7841157-7a6d-49c1-9779-e2a3b8f2969e) ![Screenshot 2024-02-11 111022](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/c4976508-c5c4-401f-a8de-d73cf7266dce)
+![Screenshot 2024-02-11 110946](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/b7841157-7a6d-49c1-9779-e2a3b8f2969e)      ![Screenshot 2024-02-11 111022](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/c4976508-c5c4-401f-a8de-d73cf7266dce)
 
 
 
