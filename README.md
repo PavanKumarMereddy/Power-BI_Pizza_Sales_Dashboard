@@ -13,9 +13,9 @@ The objective of this project is to create an interactive dashboard that enables
 
 ![Screenshot 2024-02-11 104750](https://github.com/PavanKumarMereddy/Power-BI_Pizza_Sales_Dashboard/assets/155641231/f039ff5f-d726-490d-9c83-5496c6838d28)
 
-•	Imported data from PostgreSQL database.
-•	Conducted data cleaning processes including:
-•	Replacing values.
-•	Updating table names.
-•	Creating conditional columns.
-•	Extracting year from the order_date column. 
+- Imported data from PostgreSQL database.
+*	Conducted data cleaning processes including:
++	Replacing values.
+-	Updating table names.
+*	Creating conditional columns.
++	Extracting year from the order_date column. 
